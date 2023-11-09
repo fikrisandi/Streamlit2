@@ -28,7 +28,7 @@ def app():
         unsafe_allow_html=True  # Mengizinkan penggunaan HTML
     )
 
-    df = pd.read_csv('../city_day.csv')
+    df = pd.read_csv('city_day.csv')
 
     st.markdown('---')
 
