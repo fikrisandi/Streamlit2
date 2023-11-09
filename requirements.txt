@@ -3,6 +3,5 @@ joblib
 pandas
 matplotlib
 plotly
-pickle5
 seaborn
 cufflinks
